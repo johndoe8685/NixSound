@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (C:\Users\johndoe8685\Desktop\Projects\VS Projects\NixSound\temp\Release\) contains files shared from another project (NixTools.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+     Creating library C:\Users\johndoe8685\Desktop\Projects\VS Projects\NixSound\out\Release\NixSound.lib and object C:\Users\johndoe8685\Desktop\Projects\VS Projects\NixSound\out\Release\NixSound.exp
+  Generating code
+  1 of 331 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NixSound.vcxproj -> C:\Users\johndoe8685\Desktop\Projects\VS Projects\NixSound\out\Release\NixSound.exe
+  0 File(s) copied
+  0 File(s) copied
